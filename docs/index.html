@@ -10,7 +10,25 @@
   <!-- Cutsomize -->
   <style type="text/css">
     body { overflow: auto !important; }
-    img  { width:100%; max-width:600px; }
+    /* 預設情況下，最大寬度和最大高度都為600px */
+    img {
+      max-width: 600px;
+      max-height: 600px;
+    }
+
+    /* 如果圖片的高度大於寬度，則設定最大高度為600px */
+    @media (orientation: portrait) {
+      img {
+        max-height: 600px;
+      }
+    }
+
+    /* 如果圖片的寬度大於高度，則設定最大寬度為600px */
+    @media (orientation: landscape) {
+      img {
+        max-width: 600px;
+      }
+    }
     .sidebar ul, .sidebar ul li {
       font-size: 14px;
       font-weight: 400;
