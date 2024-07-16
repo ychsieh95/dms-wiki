@@ -1,3 +1,30 @@
 # MapleDreams Wiki
 
-A wiki for MapleDreams.
+A simple wiki for MapleDreams.
+
+## Thanksgiving
+
+Here, I would like to thank every enthusiastic player for sharing information, including (listed in alphabetical order):
+
+- [夢時代 Discord 圖書館](https://discord.gg/TnczbYm9)相關作者
+  - Mooncake
+  - Yamelo
+  - 洛小雪
+  - 開花子
+  - 章魚
+- 荒林
+
+## Information
+
+The content sources on the webpage include:
+
+- [夢時代 Discord 圖書館](https://discord.gg/TnczbYm9)
+- Player contributions
+
+If there are:
+
+- Any intellectual property infringement
+- Content that authors wish to be taken down
+- Authors who have been inadvertently left uncredited
+
+Please [contact us](ychsieh95@gmail.com), we will promptly add or remove upon receiving your message. Thank you.
