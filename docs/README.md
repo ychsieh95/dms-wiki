@@ -2,6 +2,11 @@
 
 A simple wiki for MapleDreams.
 
+Other useful webpages:
+
+- [掉落物查詢 - 催化劑、母礦](https://dms.holey.cc/Drops/CatalystStone)
+- [傷害計算機 - 法師](https://dms.holey.cc/Calculators/Wizard)
+
 ## Thanksgiving
 
 Here, I would like to thank every enthusiastic player for sharing information, including (listed in alphabetical order):
