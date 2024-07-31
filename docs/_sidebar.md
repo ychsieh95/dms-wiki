@@ -57,3 +57,6 @@
   - [遊戲執行問題](遊戲常見問題/遊戲執行問題/index.md)
 - **網站說明**
   - [隱私權政策](網站說明/privacy_policy.md)
+- **其他網頁**
+  - [掉落物查詢 - 催化劑、母礦](https://dms.holey.cc/Drops/CatalystStone)
+  - [傷害計算機 - 法師](https://dms.holey.cc/Calculators/Wizard)
