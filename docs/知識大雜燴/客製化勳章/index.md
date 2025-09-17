@@ -57,3 +57,12 @@
 原版勳章編號與名稱：765 ★14號街名人★
 最終客製化勳章指定名稱：２０２５傳說級羊肉爐素材
 ```
+
+### 勳章分類、編號與名稱查詢
+
+`勳章分類`與`原版勳章編號與名稱`可以參考巴哈文章：
+
+* https://forum.gamer.com.tw/Co.php?bsn=07650&sn=6136148
+* https://forum.gamer.com.tw/Co.php?bsn=07650&sn=6136149
+* https://forum.gamer.com.tw/Co.php?bsn=07650&sn=6136151
+* https://forum.gamer.com.tw/Co.php?bsn=07650&sn=6136152
